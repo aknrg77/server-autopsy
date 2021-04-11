@@ -1,6 +1,6 @@
-# server-autopsy
+# serverautopsy
 
-server-autopsy is your daily server monitoring middleware.
+serverautopsy is your daily server monitoring middleware.
 
 It is difficult to monitor how your current server in which your favourite apps are deployed.
 If you are lazy like me then this is all you need. It checks your server's usage , memory and disk space and send mails to the admin via [Sendgrid](https://sendgrid.com/) to inform about the server if it's low on memory or disk or high cpu usage.
@@ -10,7 +10,7 @@ If you are lazy like me then this is all you need. It checks your server's usage
 ## Installation
 
 ```sh
-$ npm install server-autopsy
+$ npm install serverautopsy
 ```
 
 ## API
