@@ -16,7 +16,7 @@ $ npm install serverautopsy
 ## API
 
 ```js
-var serverAutopsy = require("server-autopsy");
+var serverAutopsy = require("serverautopsy");
 
 app.use(
   serverAutopsy({
