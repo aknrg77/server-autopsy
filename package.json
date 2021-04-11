@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Anurag",
-  "license": "ISC",
+  "author": "aknrg77",
+  "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.4.2",
     "check-disk-space": "^2.1.0"
