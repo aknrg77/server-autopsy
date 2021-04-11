@@ -1,0 +1,15 @@
+{
+  "name": "serverautopsy",
+  "version": "1.0.0",
+  "description": "Gives the information of the system in which server is deployed and sends the mail to the developer if the system runs out of memory or cpu load gets very high",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "check-disk-space": "^2.1.0"
+  }
+}
