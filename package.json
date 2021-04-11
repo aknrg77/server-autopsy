@@ -1,6 +1,6 @@
 {
   "name": "serverautopsy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gives the information of the system in which server is deployed and sends the mail to the developer if the system runs out of memory or cpu load gets very high",
   "keywords": [
     "sendgrid",
